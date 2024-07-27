@@ -1,1 +1,49 @@
 .DS_Store
+=======
+# Dependency directories
+node_modules/
+jspm_packages/
+vendor/
+
+# Build output directories
+dist/
+build/
+
+# Ignore macOS system files
+.DS_Store
+.Trash/
+.CFUserTextEncoding
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Linux system files
+*~
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# User-specific files
+.bash_history
+.bash_sessions/
+.history
+
+# Ignore parent directories explicitly
+../*
+
+# Ignore specific projects
+../../se_project_coffeeshop/
+../../se_project_library/

@@ -1,0 +1,15 @@
+.footer {
+  margin: auto;
+}
+
+.footer__copyright {
+  margin: 0;
+  padding: 60px;
+  font-size: 16px;
+  color: #333;
+  width: 105px;
+  height: 16px;
+  margin: 0 auto;
+  line-height: 16px;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+}
