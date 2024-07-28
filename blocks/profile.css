@@ -108,6 +108,7 @@
   .profile {
     flex-direction: column;
     max-width: 288px;
+    padding: 20px;
     align-items: center;
     text-align: center;
   }
